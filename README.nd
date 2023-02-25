@@ -1,1 +1,43 @@
-
+<!DOCTYPE html>
+<html>
+    </head>
+        <title>Unopa Male</title>
+        <link rel="stylesheet" href"/css/styles.css">
+    </head>
+    <body style="background-color: rgb(139, 139, 239);">
+        <h1>Unopa Male</h1>
+        <p> BAC <em>CSE Group 2</em></p>
+            <table>
+                    <tr>
+                            <th>Company</th>
+                            <th>Contract</th>
+                            <th>Country</th>
+                    </tr>
+                        <td>Unopa</td>
+                        <td>New Gen</td>
+                        <td>Botswana</td>
+                    </tr>
+                    <tr>
+                            <td>
+                                <ul>
+                                    <li>Unopa</li>
+                                </ul>
+                            <td>
+                                    <ul>
+                                            <li>Unopa</li>
+                                    </ul>
+                            </td>    
+                            <td>
+                                    <ul>
+                                            <li>Unopa</li>
+                                    </ul>
+                            </td>
+                    </tr>
+            </table>
+            <h2>Part for sale</h2>
+            <h3>BMW N54 Pure Turbos Stage 2 Twin Turbos:</h3>
+            <h4>$680</h4>
+            <button>Add to Cart</button>
+            <img src="bmw_n54_pure_stg_2_copy.jpg" alt="Part for sale">
+    </body>
+</html>
